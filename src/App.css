@@ -1,38 +1,60 @@
-.App {
+.Header-Title {
   text-align: center;
+  text-decoration: none;
+  color: rgb(204, 81, 81);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.Header-Title h1 {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
 }
 
-.App-link {
-  color: #61dafb;
+.pokeball {
+  display: block;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.pokemon-cards {
+  background-color: none;
+  width: 15%;
+  margin: auto;
+}
+
+.Nav-Btn {
+  margin: 5px;
+  text-align: center;
+  text-decoration: none;
+  color: #282c34;
+}
+
+.Poke-Cards {
+  text-decoration: none;
+  color: #282c34;
+  text-align: center;
+  padding-top: 2rem;
+}
+
+.btn-style {
+  background: none;
+  margin: 3px;
+  cursor: pointer;
+  font-size: 1rem;
+  border-radius: 10px;
+  padding: 5px 15px;
+}
+
+.border__ {
+  border: 1px solid black;
+  border-radius: 10px;
+  background: rgb(193, 230, 243);
+  width: 80%;
+  margin: 5px auto;
+}
+
+.description__border {
+  width: 10%;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 10px;
+  background: rgb(185, 222, 235);
 }
