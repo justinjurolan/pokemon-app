@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# Pokedex - React JS
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Overview
+
+My second project after gaining knowledge in React JS. It is a project utilizing React Hooks and React Router Version 6. 
+
+## Installation
+
+```
+git clone https://github.com/justinjurolan/pokemon-app.git
+```
+```
+npm install
+```
+To install the packages used during the development of the application.
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Available Scripts
 
@@ -67,4 +85,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).
+
