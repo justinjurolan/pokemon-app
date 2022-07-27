@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 My second project after gaining knowledge in React JS. It is a project utilizing React Hooks and React Router Version 6. 
 
+## Live Demo
+See the live demo of the project [here](https://justinjurolan.github.io/pokemon-app/).
+
 ## Installation
 
 ```
